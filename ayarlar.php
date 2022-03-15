@@ -1,0 +1,10 @@
+<?php
+$sunucu="localhost";
+$vt="websitesivt";
+$kadi="root";
+$ksifre="";
+$karakter="utf8";
+$listelemesayisi=3;
+$beklemesuresi=5;
+$diller=array("TR"=>"Türkçe","EN"=>"English");
+?>
